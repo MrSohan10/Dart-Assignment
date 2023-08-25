@@ -45,4 +45,8 @@ void main() {
       'Car 3: ${car3.getBrand} ${car3.getModel} ${car3.getYear} Miles: ${car3.getMilesDriven} Age: ${car3.getAge}');
 
   print('Total number of cars created: ${Car.numberOfCars}');
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 9364fbc0f29b4684c38bb83b1ba8354152963c65

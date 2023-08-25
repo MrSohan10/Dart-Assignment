@@ -1,4 +1,4 @@
-/// Assignment of Module 2.
+/// Assignment of Module 2
 
 void main() {
   List<int> studentGrades = [85, 92, 78, 65, 88, 72];
